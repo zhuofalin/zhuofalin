@@ -24,8 +24,11 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhuofalin/count.svg) visit
 
 
 # I'm Zhuo Falin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Graduated from South-Central University for Nationalities with a major in Biomedical Engineering, focusing on computer vision and medical image processing
 
-- 🔭 I’m currently working on **computer vision-based medical image processing **
+### I am honored to meet the professional team of this major and my alma mater. I will continue to work in this professional field and contribute my own small strength. Soon, my new paper will be published, so stay tuned 😊
+
+- 🔭 I’m currently working on **computer vision-based medical image processing**
 - 🌱 I’m currently learning **CV (Computer Vision)** and **BME (BioMedical Engineering)**
 - 👯 Currently working in **Wuhan, China**
 - 🤔 I love **Reading, Photography, Thinking**
@@ -41,8 +44,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhuofalin/count.svg) visit
 
 # My Skill Sets
 <table><tr><td valign="top" width="33%">
-
-
 
 ### DeepLearning  
 <div align="center">  
