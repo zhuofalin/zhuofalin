@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Metrics](https://metrics.lecoq.io/zhuofalin?template=classic&config.timezone=Asia%2FShanghai) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhuofalin?theme=THEME_NAME gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhuofalin?theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 [![zhuofalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuofalin)](https://github.com/anuraghazra/github-readme-stats)
 [![zhuofalin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zhuofalin&theme=xcode)](https://github.com/zhuofalin)
 <h1 align="center">
