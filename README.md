@@ -29,7 +29,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhuofalin/count.svg) visit
 ### I am honored to meet the professional team of this major and my alma mater. I will continue to work in this professional field and contribute my own small strength. 
 ### Soon, my new paper will be published, so stay tuned 😊
 
-- 🔭 I’m currently working on **computer vision-based medical image processing**
+- 🔭 I’m currently working on **Computer Vision-based Medical Image Processing**
 - 🌱 I’m currently learning **CV (Computer Vision)** and **BME (BioMedical Engineering)**
 - 👯 Currently working in **Wuhan, China**
 - 🤔 I love **Reading, Photography, Thinking**
