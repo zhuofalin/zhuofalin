@@ -25,10 +25,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhuofalin/count.svg) visit
 
 # I'm Zhuo Falin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **HuoLaLa**
-- 🌱 I’m currently learning **CV (Computer Vision)** and **BME (BioMedical )**
+- 🔭 I’m currently working on **computer vision-based medical image processing **
+- 🌱 I’m currently learning **CV (Computer Vision)** and **BME (BioMedical Engineering)**
 - 👯 Currently working in **Wuhan, China**
-- 🤔 I love **Reading, photography**
+- 🤔 I love **Reading, Photography, Thinking**
 - 💬 Ask me about Deep Learning, Python and My-projects
 - 📫 How to reach me: **1822643111@qq.com**
 - 😄 You may like [My Github](https://github.com/zhuofalin/zhuofalin),[My Gitee](https://gitee.com/zhuofalin)
@@ -39,7 +39,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhuofalin/count.svg) visit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuofalin&show_icons=true&theme=tokyonight)
 
-# My Skill Set  
+# My Skill Sets
 <table><tr><td valign="top" width="33%">
 
 
