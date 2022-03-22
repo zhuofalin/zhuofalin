@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/zhuofalin?template=classic&config.timezone=Asia%2FShanghai)
 [![zhuofalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuofalin)](https://github.com/anuraghazra/github-readme-stats)
