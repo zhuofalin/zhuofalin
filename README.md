@@ -24,7 +24,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhuofalin/count.svg) visit
 
 
 # <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> I'm Zhuo Falin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-## Graduated from South-Central University for Nationalities with a major in Biomedical Engineering, focusing on computer vision and medical image processing
+## Graduated from South-Central University for Nationalities (**SCUEC**) with a major in `Biomedical Engineering`, focusing on computer vision and medical image processing
 
 ### I am honored to meet the professional team of this major and my alma mater. I will continue to work in this professional field and contribute my own small strength. 
 ### Soon, my new paper will be published, so stay tuned 😊
